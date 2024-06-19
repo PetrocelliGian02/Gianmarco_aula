@@ -1,8 +1,14 @@
+#Gestione negozio
+
 controllo = True
+
+#Variabili 
 
 selezione = input("ciao Gianmarco cominciamo...")
 
 lista_prodotti = ["pallone", "gelato", "telecomando"]
+
+#funzioni
 
 if selezione == "si":
      
