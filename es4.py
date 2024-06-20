@@ -34,3 +34,4 @@ if selezione == "si":
                print("operazione effettuata")
                break
           
+          
