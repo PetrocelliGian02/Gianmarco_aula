@@ -1,3 +1,4 @@
+
 numero = int(input("scrivi un numero:"))
 
 if numero % 2 == 0:
@@ -5,3 +6,4 @@ if numero % 2 == 0:
 
 else:
     print ("dispari")
+
